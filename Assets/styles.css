@@ -1,0 +1,19 @@
+body {
+    background-color: purple;
+    font-family: Arial, sans-serif;
+} main {
+    background-color: azure;
+
+} nav {
+    color: aliceblue;
+} nav a{
+    color: aliceblue;
+    padding: 10px;
+} ul {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    justify-content:flex-end;
+} p {
+    min-width: 300px;
+}
