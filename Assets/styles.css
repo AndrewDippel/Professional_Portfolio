@@ -8,12 +8,17 @@ body {
     color: aliceblue;
 } nav a{
     color: aliceblue;
-    padding: 10px;
+    padding: 5px;
+    background-color: orange;
+    display: inline-block;
+} nav a:hover{
+    background-color:rgb(38, 190, 38);
 } ul {
     list-style: none;
     display: flex;
-    justify-content: end;
-    justify-content:flex-end;
+    padding: 5px;
+    justify-content: space-between;
+    max-width: 200px;
 } p {
     min-width: 300px;
 } section img {
@@ -21,18 +26,29 @@ body {
     height: 100px;
     border: 8px solid orange;
     margin: 5px;
-} #github{
+} #git-tag {
+
+}#github{
     /*for this section to get it to sit above the rest i gave it 
     an id seperate to the others so there was a line break*/
     display: flex;
     justify-content: center;
-} h4 {
-    color:aliceblue
+} section a:hover{
+    cursor: grab;
+}h4 {
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
 
 } .contact-me {
-    /* while doing this section i tried to apply it tothe footer 
+    /* while doing this section i tried to apply it to the footer 
     but was unable to add any css and fixed this by using a class 
     on each of the elements*/
-    justify-content: center;
     color:aliceblue;
+    background-color: orange;
+    padding: 5px;
+    display: inline-block;
+    justify-content: center;
+}.contact-me:hover{
+    background-color:rgb(38, 190, 38);
 }
