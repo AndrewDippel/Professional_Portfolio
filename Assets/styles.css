@@ -11,6 +11,8 @@ body {
     background-color: rgb(38, 190, 38);
     display: inline-block;
 } nav a:hover{
+    /*this section is how i added a hover to the image border to change the colour
+    as well as change the cursor icon to a grabbing hand*/
     background-color:red;
     cursor: grab;
 } ul {
@@ -28,7 +30,7 @@ body {
     margin: 5px;
 } section a {
     display: inline-flex;
-    justify-content:center;
+
     
 } section img:hover{
     border: 8px solid red;
@@ -39,8 +41,7 @@ body {
     display: flexbox;
     justify-content: center;
     
-}
-}section a:hover{
+} section a:hover{
     cursor: grab;
 
 }h4 {
