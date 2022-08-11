@@ -6,4 +6,4 @@ this project was done to help showcase what i have learned and the skills i have
 
 ![img of professional portfolio](Assets/webpage%20screenshot.png)
 
-with this project i found my biggest challenge was my time management, however i also had a few challenges with getting my content to sit in the areas i would prefer them. and after a fair amount of googling and re watching class recordings it started to look like my plan.
+with this project i found my biggest challenge was my time management, however i also had a few challenges with getting my content to sit in the areas i would prefer them. and after a fair amount of googling, re watching class recordings and usink Ask BCS it started to look like my plan.

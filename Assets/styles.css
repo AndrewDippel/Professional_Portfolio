@@ -30,8 +30,7 @@ body {
     margin: 5px;
 } section a {
     display: inline-flex;
-
-    
+    margin: auto;
 } section img:hover{
     border: 8px solid red;
 }
